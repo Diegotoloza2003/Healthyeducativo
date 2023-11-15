@@ -1,0 +1,286 @@
+[
+    {
+        "id": "1",
+        "name": "ANALISTA DE ASEGURAMIENTO DE CALIDAD"
+    },
+    {
+        "id": "3",
+        "name": "ADMIN"
+    },
+    {
+        "id": "2",
+        "name": "ANALISTA DE ASUNTOS REGULATORIOS"
+    },
+    {
+        "id": "4",
+        "name": "AUXILIAR TIC"
+    },
+    {
+        "id": "5",
+        "name": "APRENDIZ SENA"
+    },
+    {
+        "id": "6",
+        "name": "ASESOR CALL CENTER"
+    },
+    {
+        "id": "7",
+        "name": "ASISTENTE ADMINISTRATIVO"
+    },
+    {
+        "id": "8",
+        "name": "ASISTENTE COMERCIAL"
+    },
+    {
+        "id": "9",
+        "name": "ASISTENTE CONTABLE"
+    },
+    {
+        "id": "10",
+        "name": "ASISTENTE DE ACONDICIONAMIENTO"
+    },
+    {
+        "id": "11",
+        "name": "ASISTENTE DE CARTERA"
+    },
+    {
+        "id": "12",
+        "name": "ASISTENTE DE COMPRAS"
+    },
+    {
+        "id": "13",
+        "name": "ASISTENTE DE CONTROL DE CALIDAD"
+    },
+    {
+        "id": "14",
+        "name": "ASISTENTE DE DESPACHOS"
+    },
+    {
+        "id": "15",
+        "name": "ASISTENTE DE FACTURACION"
+    },
+    {
+        "id": "16",
+        "name": "ASISTENTE DE GERENCIA OPERATIVO"
+    },
+    {
+        "id": "17",
+        "name": "ASISTENTE DE GESTION HUMANA"
+    },
+    {
+        "id": "18",
+        "name": "ASISTENTE DE INVENTARIO"
+    },
+    {
+        "id": "19",
+        "name": "ASISTENTE DE SERVICIO AL CLIENTE"
+    },
+    {
+        "id": "20",
+        "name": "ASISTENTE DE TESORERIA"
+    },
+    {
+        "id": "21",
+        "name": "ASISTENTE E-COMERCE"
+    },
+    {
+        "id": "22",
+        "name": "ASISTENTE TERAPEUTICO"
+    },
+    {
+        "id": "23",
+        "name": "AUXILIAR DE ACONDICIONAMIENTO"
+    },
+    {
+        "id": "24",
+        "name": "AUXILIAR DE INVENTARIO"
+    },
+    {
+        "id": "25",
+        "name": "AUXILIAR DE LOGISTICA"
+    },
+    {
+        "id": "26",
+        "name": "AUXILIAR DE MANTENIMIENTO"
+    },
+    {
+        "id": "27",
+        "name": "AUXILIAR DE MENSAJERIA"
+    },
+    {
+        "id": "28",
+        "name": "AUXILIAR DE RECEPCION"
+    },
+    {
+        "id": "29",
+        "name": "AUXILIAR DE SERVICIOS GENERALES"
+    },
+    {
+        "id": "30",
+        "name": "AUXILIAR DE TRANSPORTE"
+    },
+    {
+        "id": "31",
+        "name": "COMMUNITY MANAGER"
+    },
+    {
+        "id": "32",
+        "name": "COORDINADOR DE ASEGURAMIENTO DE CALIDAD"
+    },
+    {
+        "id": "33",
+        "name": "COORDINADOR DE DISEÑO"
+    },
+    {
+        "id": "34",
+        "name": "COORDINADOR DE GESTION HUMANA"
+    },
+    {
+        "id": "35",
+        "name": "COORDINADOR DE OPERACIONES QF"
+    },
+    {
+        "id": "36",
+        "name": "COORDINADOR DE OPERACIONES Y LOGISTICA"
+    },
+    {
+        "id": "37",
+        "name": "COORDINADOR DE PUBLICIDAD"
+    },
+    {
+        "id": "38",
+        "name": "COORDINADOR DE SEGURIDAD Y SALUD EN EL TRABAJO"
+    },
+    {
+        "id": "39",
+        "name": "COORDINADOR DE SERVICIO AL CLIENTE"
+    },
+    {
+        "id": "40",
+        "name": "COORDINADOR DE ZONA"
+    },
+    {
+        "id": "41",
+        "name": "COORDINADOR TIC"
+    },
+    {
+        "id": "42",
+        "name": "DIRECTOR ADMINISTRATIVO Y FINANCIERO"
+    },
+    {
+        "id": "43",
+        "name": "DIRECTOR CONTABLE"
+    },
+    {
+        "id": "44",
+        "name": "DIRECTOR DE ASUNTOS REGULATORIOS"
+    },
+    {
+        "id": "45",
+        "name": "ADIRECTOR DE INVESTIGACION Y DESARROLLO"
+    },
+    {
+        "id": "46",
+        "name": "DIRECTOR DE MARCA HEALTHY SPORTS"
+    },
+    {
+        "id": "47",
+        "name": "DIRECTOR DE MARCA NUTRIVITA PROFECIONAL"
+    },
+    {
+        "id": "48",
+        "name": "DIRECTOR DE OPERACIONES Y LOGISTICA"
+    },
+    {
+        "id": "49",
+        "name": "DIRECTOR TECNICO Y DE CALIDAD"
+    },
+    {
+        "id": "50",
+        "name": "DISEÑADOR"
+    },
+    {
+        "id": "51",
+        "name": "E-COMERCE MANAGER"
+    },
+    {
+        "id": "52",
+        "name": "EJECUTIVO CUENTA CADENAS"
+    },
+    {
+        "id": "53",
+        "name": "EJECUTIVO DE VENTAS TIENDAS"
+    },
+    {
+        "id": "54",
+        "name": "GERENCIA COMERCIAL"
+    },
+    {
+        "id": "55",
+        "name": "GERENTE GENERAL"
+    },
+    {
+        "id": "56",
+        "name": "IMPULSADOR"
+    },
+    {
+        "id": "57",
+        "name": "OFICIAL DE CUMPLIMIENTO"
+    },
+    {
+        "id": "58",
+        "name": "REPRESENTANTE DE VENTAS"
+    },
+    {
+        "id": "59",
+        "name": "REVISOR FISCAL"
+    },
+    {
+        "id": "60",
+        "name": "SOCIAL MEDIA MANAGER"
+    },
+    {
+        "id": "61",
+        "name": "SUBGERENTE"
+    },
+    {
+        "id": "62",
+        "name": "SUPERVISOR DE ACONDICIONAMIENTO"
+    },
+    {
+        "id": "63",
+        "name": "SUPERVISOR DE CONTROL DE CALIDAD"
+    },
+    {
+        "id": "64",
+        "name": "SUPERVISOR DE DESPACHOS"
+    },
+    {
+        "id": "65",
+        "name": "SUPERVISOR DE EVENTOS Y VENTAS"
+    },
+    {
+        "id": "66",
+        "name": "SUPERVISOR DE FACTURACION"
+    },
+    {
+        "id": "67",
+        "name": "SUPERVISOR DE INVENTARIO"
+    },
+    {
+        "id": "68",
+        "name": "SUPERVISOR DE MANTENIMIENTO"
+    },
+    {
+        "id": "69",
+        "name": "TRAFFICKER"
+    },
+    {
+        "id": "70",
+        "name": "TRANSFERENCISTA"
+    },
+    {
+        "id": "71",
+        "name": "VISITADOR MEDICO"
+    }
+]
