@@ -8,7 +8,23 @@ $configData = Helper::appClasses();
 
 @section('content')
 <link href="../resources/assets/css/video.css" type="text/css" rel="stylesheet">
+<style>
+  .play-video{ 
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height:0;
+   }
 
+   .play-video iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    }
+  </style>
 <div class="container play-container">
      <div class="row">
         <div class="play-video">
@@ -25,7 +41,7 @@ $configData = Helper::appClasses();
 <div class="publisher">
     
     <div>
-        <a href="http://192.168.26.38/Sistema%20de%20examenes/registro_de_alumnos.php">ENLANCE PARA REGISTRARME AL EXAMEN</a>
+        <a href="http://healthyamerica-001-site1.ftempurl.com/registro_de_alumnos.php">ENLACE PARA REALIZAR EL EXAMEN</a>
     </div>
 </div>
     <hr>
