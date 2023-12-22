@@ -16,8 +16,6 @@
          <div class="container">
             <div class="conten">
                 <h1><i class="fa-brands fa-youtube"></i>HEALTHY EDUCATIVO</h1>
-                <p>En esta página encontraras videos encargados hacia tu area para que asi tu conocimiento sea mucho más
-                    fácil.</p>
                  <a class="btn" target="_blank" rel="noopener noreferrer"
                     href="https://192.168.20.31/Healthy/public/login">SOLO PERSONAL COMERCIAL</a>
             </div>
